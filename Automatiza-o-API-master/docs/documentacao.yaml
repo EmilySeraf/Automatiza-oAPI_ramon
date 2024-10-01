@@ -5,7 +5,7 @@ info:
   description: Uma API que gerencia clientes e produtos com autenticação.
   version: 1.0.0
 servers:
-  - url: http://localhost:3300
+  - url: http://localhost:8000
 paths:
   /produto:
     get:
